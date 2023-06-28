@@ -2,7 +2,7 @@
 
 2.Контакты: email: Gankon17@gmail.com, Telegram: @ganchlk
 
-3.Краткая информация о себе : 1st year student of Software Engeneering class, AITU
+3.Краткая информация о себе : 18yo, Uralsk, Kazakhstan
 
 4.Навыки: 
 
