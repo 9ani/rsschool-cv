@@ -8,7 +8,7 @@
 
 5.Примеры кода
 
-6.Опыт работы
+6.Опыт работы: None
 
 7.Образование :1st year student of Software Engeneering class, AITU
 
