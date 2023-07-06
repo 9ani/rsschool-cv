@@ -1,2 +1,2 @@
-https://9ani.github.io/rsschool-cv/cv.md
+https://9ani.github.io/rsschool-cv/cv
 
