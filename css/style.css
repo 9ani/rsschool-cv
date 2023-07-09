@@ -1,0 +1,30 @@
+.icon-link img {
+  width: 120px;
+  height: 120px;
+}
+
+body {
+  text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
+  box-shadow: inset 0 0 100rem rgba(0, 0, 0, .5);
+}
+
+.cover-container {
+  max-width: 60em;
+}
+
+.list-right {
+  display: inline-block;
+}
+
+.custom-form {
+  border-color: white;
+}
+.code-example {
+  border: 1px solid white;
+  padding: 10px;
+
+}
+.nav-masthead .nav-link {
+  color: rgba(255, 255, 255, .5);
+  border-bottom: .25rem solid transparent;
+}
