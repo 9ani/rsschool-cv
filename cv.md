@@ -45,7 +45,7 @@ DEVELOPMENT TOOLS:
 
   Qualification: High School Diploma
   Institution: NIS Uralsk
-  Year: 2022
+  Year: 2022 
 
 8. English: 
   IELTS: 6.0
